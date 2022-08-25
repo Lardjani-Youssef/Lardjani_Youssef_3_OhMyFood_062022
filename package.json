@@ -1,0 +1,23 @@
+{
+  "name": "lardjani_youssef_3_ohmyfood_062022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lardjani-Youssef/Lardjani_Youssef_3_OhMyFood_062022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lardjani-Youssef/Lardjani_Youssef_3_OhMyFood_062022/issues"
+  },
+  "homepage": "https://github.com/Lardjani-Youssef/Lardjani_Youssef_3_OhMyFood_062022#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.54.4"
+  }
+}
